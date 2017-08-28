@@ -3,5 +3,303 @@
     11,
     6,
     8
+  ],
+  "hotels-by-ids": [
+    {
+      "id": 7,
+      "externalId": 53,
+      "hotelGroupId": 4,
+      "name": "Atlantis House",
+      "stars": 4,
+      "street": "S\u00f6ren-Erdmann-Allee 1\/8",
+      "cityIndex": "47816OU",
+      "city": "Peine",
+      "hotelEmail": "christian18@aol.de",
+      "url": "http:\/\/www.kirchner.com\/quaerat-illum-tenetur-est-labore-voluptatem-aut-totam",
+      "description": {
+        "de": {
+          "content": "Tenetur ut id sunt ea delectus est autem architecto. Quam voluptate molestiae ratione commodi. Rerum incidunt temporibus eveniet omnis.\n\nEum quis aut consectetur quaerat qui dolorem adipisci sint. Exercitationem est dolorem libero non perferendis autem praesentium. Saepe nesciunt assumenda dolorem blanditiis commodi. Dolorem exercitationem libero dolores.",
+          "auto": false
+        }
+      },
+      "taxon": 1.62,
+      "images": {
+        "folderName": "e53",
+        "folderUpdatedAt": 1503937080
+      },
+      "fromFair": 1.6,
+      "fromStation": 12.1,
+      "fromAirport": 13.2,
+      "longitude": "70.10701",
+      "latitude": "26.27722",
+      "hotelBar": true,
+      "pool": false,
+      "restaurant": true,
+      "reception": true,
+      "garage": true,
+      "additionallyInHotel": {
+        "de": {
+          "content": "Consequatur rem perspiciatis labore maxime id illo. Adipisci non hic ducimus voluptas possimus ut molestiae rem.",
+          "auto": false
+        }
+      },
+      "safe": true,
+      "tv": true,
+      "conditioner": true,
+      "wlan": false,
+      "additionallyInRoom": {
+        "de": {
+          "content": "Maxime cupiditate consectetur eligendi voluptatibus numquam. Reiciendis aut quae eum a illo neque error.",
+          "auto": false
+        }
+      },
+      "cancelPricePolicy": {
+        "de": {
+          "content": "Non ratione vel et odit autem. Velit quae quidem consequatur aliquid. Dolor autem id possimus voluptas magnam.",
+          "auto": false
+        }
+      },
+      "firstName": "Else",
+      "lastName": "G\u00f6tz",
+      "contactEmail": "meier.rosel@aol.de",
+      "phoneNumber": "(05590) 499702",
+      "meetingRoomAvailable": false,
+      "status": 1,
+      "hotelId": null,
+      "serviceProviderParentName": null,
+      "stateProvince": null,
+      "countryName": null,
+      "countryLettercode": null,
+      "fax": null,
+      "createdAt": "2017-08-28 16:16:20",
+      "updatedAt": "2017-08-28 16:16:20",
+      "deletedAt": null,
+      "roomInfo": [
+        {
+          "roomType": {
+            "de": {
+              "content": "Einzelzimmer",
+              "auto": false
+            },
+            "en": {
+              "content": "Juniorsuite",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 2
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Maisonette",
+              "auto": false
+            },
+            "en": {
+              "content": "Mehrbettzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 7
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Studio",
+              "auto": false
+            },
+            "en": {
+              "content": "Doppelzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 1
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Familienzimmer",
+              "auto": false
+            },
+            "en": {
+              "content": "Penthousewohnung",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 7
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Studio",
+              "auto": false
+            },
+            "en": {
+              "content": "Einzelzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 6
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Apartment",
+              "auto": false
+            },
+            "en": {
+              "content": "Penthousewohnung",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 7
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Studio",
+              "auto": false
+            },
+            "en": {
+              "content": "Familienzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 4
+        }
+      ],
+      "hotelSafe": null,
+      "hotelPhoneNumber": null,
+      "hotelFax": null
+    },
+    {
+      "id": 8,
+      "externalId": 61,
+      "hotelGroupId": 3,
+      "name": "Breidenbacher Hof",
+      "stars": 4,
+      "street": "Baierring 88",
+      "cityIndex": "42634OT",
+      "city": "Gro\u00df-Gerau",
+      "hotelEmail": "ehirsch@albert.com",
+      "url": "http:\/\/www.kunze.de\/saepe-voluptates-ducimus-doloribus-perferendis-natus",
+      "description": {
+        "de": {
+          "content": "Rerum ea natus repudiandae incidunt aut cumque molestiae. Omnis est eius consequatur odio ut officiis. Et impedit cupiditate hic delectus nihil quo. Consequatur itaque quia molestiae commodi omnis quos.\n\nSed et quis ut illum quo ut nesciunt non. Et eveniet ea et modi et animi assumenda. Aut incidunt voluptas laudantium delectus quia expedita vitae inventore. Tenetur quod vel dolor sit qui.",
+          "auto": false
+        },
+        "en": {
+          "content": "Ad voluptatem eos est ut eveniet nam et similique maxime sapiente natus id enim asperiores impedit qui blanditiis et vero.",
+          "auto": false
+        }
+      },
+      "taxon": 1.75,
+      "images": {
+        "folderName": "e61",
+        "folderUpdatedAt": 1503937080
+      },
+      "fromFair": 9.7,
+      "fromStation": 10,
+      "fromAirport": 19.2,
+      "longitude": "51.67552",
+      "latitude": "65.58303",
+      "hotelBar": false,
+      "pool": false,
+      "restaurant": false,
+      "reception": false,
+      "garage": false,
+      "additionallyInHotel": {
+        "de": {
+          "content": "Veniam sed sed alias aliquam culpa rerum. Explicabo vel sunt blanditiis aliquid itaque sequi corrupti illo.",
+          "auto": false
+        },
+        "en": {
+          "content": "Aut harum necessitatibus incidunt ut officiis dolor est quam. Atque natus numquam mollitia explicabo sit.",
+          "auto": false
+        }
+      },
+      "safe": true,
+      "tv": false,
+      "conditioner": true,
+      "wlan": false,
+      "additionallyInRoom": {
+        "de": {
+          "content": "Facere amet soluta aliquid nisi consequatur rerum. Suscipit earum voluptatem corporis dolorem maiores architecto.",
+          "auto": false
+        },
+        "en": {
+          "content": "Odio labore mollitia minus qui cum quis ea. Nostrum aut similique impedit.",
+          "auto": false
+        }
+      },
+      "cancelPricePolicy": {
+        "de": {
+          "content": "Recusandae et iste aut recusandae. Qui iure aut quia id et voluptates. Unde cumque et et libero.",
+          "auto": false
+        },
+        "en": {
+          "content": "Odit ea ea quam. Voluptatem repellendus nesciunt expedita harum velit deleniti ipsam.",
+          "auto": false
+        }
+      },
+      "firstName": "Elli",
+      "lastName": "Stock",
+      "contactEmail": "steven.jost@aol.de",
+      "phoneNumber": "+49(0) 453173763",
+      "meetingRoomAvailable": false,
+      "status": 1,
+      "hotelId": null,
+      "serviceProviderParentName": null,
+      "stateProvince": null,
+      "countryName": null,
+      "countryLettercode": null,
+      "fax": null,
+      "createdAt": "2017-08-28 16:16:20",
+      "updatedAt": "2017-08-28 16:16:20",
+      "deletedAt": null,
+      "roomInfo": [
+        {
+          "roomType": {
+            "de": {
+              "content": "Schlafsaal",
+              "auto": false
+            },
+            "en": {
+              "content": "Familienzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 6
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Familienzimmer",
+              "auto": false
+            },
+            "en": {
+              "content": "Einzelzimmer",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 2
+        },
+        {
+          "roomType": {
+            "de": {
+              "content": "Familienzimmer",
+              "auto": false
+            },
+            "en": {
+              "content": "Juniorsuite",
+              "auto": true
+            }
+          },
+          "couchetteNumber": 6
+        }
+      ],
+      "hotelSafe": null,
+      "hotelPhoneNumber": null,
+      "hotelFax": null
+    }
   ]
 }
