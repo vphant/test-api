@@ -1,4 +1,38 @@
 {
+  "orders": [
+    {
+        "name": {
+            "de": {
+                "content": "Auftragstitel #3",
+                "auto": false
+            },
+            "en": {
+                "content": "Order name #3",
+                "auto": false
+            }
+        },
+        "validFrom": "2017-10-02",
+        "validTo": "2019-05-18",
+        "orderId": 4,
+        "eventId": 1
+    },
+    {
+        "name": {
+            "de": {
+                "content": "Auftragstitel #4",
+                "auto": false
+            },
+            "en": {
+                "content": "Order name #4",
+                "auto": false
+            }
+        },
+        "validFrom": "2017-10-03",
+        "validTo": "2018-04-18",
+        "orderId": 5,
+        "eventId": 6
+    }
+],
   "valid-events": [
     11,
     6,
